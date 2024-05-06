@@ -1,3 +1,5 @@
+#원본
+
 import os
 from PIL import Image
 
